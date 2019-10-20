@@ -1,7 +1,8 @@
 package za.ac.cput.domain.user;
 
+import javax.persistence.Entity;
 import java.util.Objects;
-
+@Entity
 public class Admin {
 
 

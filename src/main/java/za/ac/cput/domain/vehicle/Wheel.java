@@ -1,5 +1,8 @@
 package za.ac.cput.domain.vehicle;
 
+import javax.persistence.Entity;
+
+@Entity
 public class Wheel {
 
    private String typename;

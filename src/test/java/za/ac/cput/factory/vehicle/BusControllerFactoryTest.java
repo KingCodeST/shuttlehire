@@ -7,7 +7,7 @@ import za.ac.cput.domain.vehicle.Bus;
 
 import static org.junit.Assert.*;
 
-public class BusFactoryTest {
+public class BusControllerFactoryTest {
   private  int quanty;
   private  String model;
   private int engine;
