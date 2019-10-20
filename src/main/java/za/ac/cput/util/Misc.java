@@ -1,4 +1,4 @@
-package za.ac.cput.domain.util;
+package za.ac.cput.util;
 
 import java.util.UUID;
 

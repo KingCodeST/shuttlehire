@@ -1,6 +1,6 @@
 package za.ac.cput.factory.vehicle;
 
-import za.ac.cput.domain.util.Misc;
+import za.ac.cput.util.Misc;
 import za.ac.cput.domain.vehicle.Bus;
 
 public class BusFactory {

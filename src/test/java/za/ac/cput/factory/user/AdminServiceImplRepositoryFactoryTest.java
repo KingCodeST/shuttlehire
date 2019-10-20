@@ -5,7 +5,7 @@ import za.ac.cput.domain.user.Admin;
 
 import static org.junit.Assert.*;
 
-public class AdminFactoryTest {
+public class AdminServiceImplRepositoryFactoryTest {
 
    private String email,fname,lname;
 
